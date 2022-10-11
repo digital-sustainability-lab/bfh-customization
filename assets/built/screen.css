@@ -520,6 +520,8 @@ h6 {
 .site-header-content {
   color: #fff;
   background-image: url("publication-cover.jpg");
+  background-size: cover;
+  background-position: center center;
   background-color: #cccccc;
 }
 .gh-head {
