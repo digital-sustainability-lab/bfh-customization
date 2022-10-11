@@ -519,7 +519,8 @@ h6 {
 .gh-head,
 .site-header-content {
   color: #fff;
-  background: var(--ghost-accent-color);
+  background-image: url("publication-cover.jpg");
+  background-color: #cccccc;
 }
 .gh-head {
   padding: 1vmin 4vmin;
